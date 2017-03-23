@@ -6,7 +6,7 @@
 
 #نصب
 ```
-git clone https://github.com/TeleRock/locki.git && cd locki && chmod 777 install.sh && chmod +x locki.sh && ./install.sh
+git clone https://github.com/sudoattacker/SudoattackerTaBchi.git && cd SudoattackerTaBchi && chmod 777 install.sh && chmod +x locki.sh یا SudoattackerTabchi.sh && ./install.sh
 ```
  
 #ساختن و ران کردن
@@ -52,8 +52,7 @@ Enter Sudo Id
 کدهای زیر را بترتیب بزنید
 
 ```
-cd locki
-
+cd SudoattackerTaBchi
 screen ./tabchi-1.sh
 ```
 
@@ -96,11 +95,11 @@ lua creator.lua
 ```
 cd locki
 
-./locki.sh
+./locki.sh یا ./SudoattackerTaBchi.sh
 ```
 help :نمایش دستورات در گروه
 
 
-#Opened By: [@Iocki](http://telegram.me/Iocki)
+#Opened By: [@Biraqam](http://telegram.me/Biraqam)
 
-#Developer: Amirsbss
+#Developer: #Attacker_TANHA
